@@ -1,4 +1,4 @@
 # SmartRoom
 
-Date, Time Picker
-Set Temperature
+## 1. Date, Time Picker
+## 2. Set Temperature
